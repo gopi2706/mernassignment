@@ -1,0 +1,17 @@
+.gopi{
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font: 16px;
+    text-align: center;
+    text-decoration: underline;
+    font-weight:900;
+}
+span{
+    color: black;
+}
+.mass{
+    color: chartreuse;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-weight: 8;
+}
